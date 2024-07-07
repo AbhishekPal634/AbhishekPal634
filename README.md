@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Student Leave Application](https://github.com/AbhishekPal634/Student-Leave-Application)
+- 🔭 I’m currently working on [Expense Tracker App](https://github.com/AbhishekPal634/expense_tracker)
 
 - 🌱 I’m currently learning **Flutter**
 
